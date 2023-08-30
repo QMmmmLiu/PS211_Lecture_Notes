@@ -1,0 +1,41 @@
+--- 
+title: "PSY 211 Lecture Notes"
+author: "Qimin Liu, Ph.D."
+date: "2023 Fall"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is the lecture note for PS211. It will be updated throughout the semester. Links to related materials will also be linked here.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About
+
+- This will contain lecture notes for the PS211 Introduction to Experimental Design. Despite its name, the course is primarily focused on introductory statistics with R
+- Lecture notes will be updated throughout the semester, please check back frequently and contact me 
+- Links to additional and supplemental readings will be listed in each chapter
+
+## Deadlines 
+
+Upcoming deadline: Homework 1 (TBD)
+
+## Resources
+
+1. installation of R and RStudio:
+  + for windows: 
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/H9EBlFDGG4k?si=rmx-piZyoNL4tbT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+  + for Mac:
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/n8kP7c_QbLA?si=UtYcq5AlOUM3NeYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+  + for Linux: 
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NFEDEXWomI4?si=GrVOiPgxAmoplYTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+
